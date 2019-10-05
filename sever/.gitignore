@@ -1,0 +1,6 @@
+venv
+__pycache__
+*.pyc
+*.pyd
+file_client.py
+file_server.py
